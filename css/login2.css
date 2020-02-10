@@ -1,0 +1,148 @@
+.header {
+  width: 970px;
+  height: 100px;
+  margin: 0 auto; }
+
+.header #logo {
+  float: left;
+  width: 189px;
+  height: 100%;
+  color: black;
+  background: url("../img/login-1.png") center no-repeat; }
+.header .top {
+  margin-left: 189px;
+  padding: 37px 0 0 16px; }
+
+.top .top-2 {
+  margin-right: -100px; }
+.top a {
+  float: right;
+  margin-top: 8px;
+  text-decoration: none; }
+.top .sc2 {
+  font-size: 12px;
+  color: #333; }
+
+.top-2 .phone {
+  width: 760px;
+  float: left;
+  color: #333;
+  background: #fefff1;
+  border: 1px solid #fecd66;
+  line-height: 16px;
+  padding: 4px 6px;
+  font-size: 12px; }
+.top-2 .sc {
+  color: red;
+  display: inline-block;
+  position: absolute;
+  top: 41px; }
+.top-2 span {
+  position: absolute;
+  left: 950px; }
+
+.section {
+  height: 570px;
+  width: 1350px;
+  background: url("../img/login-2.jpg") center no-repeat;
+  background-color: #e5003b; }
+
+.section .login {
+  position: relative;
+  width: 360px;
+  height: 400px;
+  background-color: white;
+  z-index: 999;
+  left: 800px;
+  top: 55px; }
+
+.login .login-top {
+  height: 50px;
+  line-height: 20px;
+  font-size: 16px;
+  border-bottom: 1px solid #eee;
+  overflow: hidden; }
+.login .login-section {
+  padding-top: 30px;
+  text-align: center;
+  position: relative; }
+.login .login-footer {
+  text-align: center;
+  margin: 12px 0 35px; }
+.login .login-logo {
+  position: relative;
+  width: 310px;
+  margin: 0 auto;
+  border-top: 1px solid #ddd;
+  padding: 19px 0 17px; }
+
+.login-top a {
+  position: relative;
+  float: left;
+  height: 100%;
+  width: 50%;
+  text-decoration: none;
+  text-align: center;
+  color: #f60;
+  top: 15px; }
+
+.login-footer span, .login-footer a {
+  font-size: 12px; }
+.login-footer a {
+  color: #f60; }
+.login-footer #one {
+  color: #333; }
+
+.login-logo span {
+  position: absolute;
+  top: -9px;
+  left: 50%;
+  margin-left: -64px;
+  color: #999;
+  width: 128px;
+  background: #fff;
+  text-align: center;
+  font-size: 11px; }
+.login-logo a {
+  float: left;
+  font-size: 12px;
+  color: #333;
+  margin-right: 20px;
+  padding-left: 20px; }
+  .login-logo a:hover {
+    color: #f60; }
+
+.footer {
+  margin-left: 180px; }
+
+.footer .f2-one {
+  width: 1190px;
+  height: 185px;
+  margin: 0 auto; }
+
+.f2-one .p1 {
+  line-height: 15px;
+  height: 15px; }
+.f2-one .p2 {
+  width: 1190px;
+  float: left;
+  color: #999;
+  margin-top: 0;
+  line-height: 10px;
+  height: 10px;
+  font-size: 12px; }
+
+.p1 a {
+  color: #666;
+  font-size: 12px; }
+.p1 span {
+  color: #888;
+  padding: 0 8px; }
+
+.f2-two {
+  width: 1190px;
+  float: left;
+  height: 25px;
+  margin-top: 5px; }
+
+/*# sourceMappingURL=login2.css.map */
